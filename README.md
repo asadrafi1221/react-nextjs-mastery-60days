@@ -29,10 +29,10 @@ By the end of this roadmap, you will:
 ### **Week 1-2: React Fundamentals Deep Dive** (Days 1-14)
 
 #### **Days 1-3: React Under the Hood**
-- [ ] **Virtual DOM**: How it works, why it exists, diffing algorithm
-- [ ] **Fiber Architecture**: Understanding React's reconciliation engine
-- [ ] **Rendering Process**: Mount, Update, Unmount phases
-- [ ] **React Elements vs Components vs Instances**
+- ✅ **Virtual DOM**: How it works, why it exists, diffing algorithm
+- ✅ **Fiber Architecture**: Understanding React's reconciliation engine
+- ✅ **Rendering Process**: Mount, Update, Unmount phases
+- ✅ **React Elements vs Components vs Instances**
 
 **Project**: Build a custom Virtual DOM implementation (simplified)
 
